@@ -1,5 +1,5 @@
 # Mouse Membrane Potential Active Whisking and Touch Decoding
-> This study uses data from [@kiritani2023membrane](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287174) to investigate the which cell types might be better discriminators for active touch decoding in mouse barrel cortex during active whisker sensing
+> This study uses data from [@kiritani2023membrane](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287174) to investigate which cell types might be better discriminators for active touch decoding in mouse barrel cortex during active whisker sensing
 
 # Contents
 * [Introduction](#Introduction)
